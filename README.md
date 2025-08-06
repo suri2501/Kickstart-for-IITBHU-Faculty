@@ -6,5 +6,4 @@ This repository is designed to assist newly joined faculty members in navigating
 Compiled by
 
 Dr. Surendra
-
-8436929997
+(8436929997)
