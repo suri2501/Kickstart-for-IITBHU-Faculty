@@ -95,7 +95,7 @@
 \begin_layout Standard
 
 \series bold
-Updated on 6 Aug 2025
+Updated on 15 Aug 2025
 \end_layout
 
 \begin_layout Enumerate
@@ -274,6 +274,44 @@ joining report
 .
 \end_layout
 
+\begin_layout Enumerate
+Relocation
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Relocation bill to be submitted withing 60 days of joining.
+ Service provider should give you GST type bill.
+\end_layout
+
+\begin_layout Enumerate
+Gate pass will be needed for truck to exit.
+ Collect gate pass form from your department office,
+ get it signed by head of the department.
+ Attach a photo copy of the Aadhar card along with signed form and git it signed from IIT BHU proctor office (
+\begin_inset CommandInset href
+LatexCommand href
+name "Location"
+target "https://maps.app.goo.gl/v6tnz56ZLD5e6XPv9"
+literal "false"
+
+\end_inset
+
+).
+ Finally,
+ it get it signed from BHU Proctor office (Lanka gate or 
+\begin_inset CommandInset href
+LatexCommand href
+name "Location"
+target "https://maps.app.goo.gl/cdgHFpfqJxbEs1G89"
+literal "false"
+
+\end_inset
+
+).
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 Collect your 
 \series bold
@@ -458,7 +496,7 @@ office.facultyaffairs@itbhu.ac.in
 \end_deeper
 \begin_layout Enumerate
 After ID card,
- go to library with photocopy of your 
+ go to library registration desk with photocopy of your 
 \series bold
 ID card and one passport size photo
 \series default
@@ -468,6 +506,10 @@ ID card and one passport size photo
 \begin_deeper
 \begin_layout Itemize
 Follow the instruction given in your institute email ID.
+\end_layout
+
+\begin_layout Itemize
+Collect your Library card from registration desk.
 \end_layout
 
 \end_deeper
