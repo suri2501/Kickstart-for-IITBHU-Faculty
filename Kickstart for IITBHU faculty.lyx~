@@ -275,6 +275,28 @@ joining report
 \end_layout
 
 \begin_layout Enumerate
+
+\series bold
+Leaves
+\series default
+:
+ Use Form - 2
+\series bold
+ 
+\series default
+for leave application (
+\begin_inset CommandInset href
+LatexCommand href
+name "Link"
+target "https://rajbhasha.iitbhu.ac.in/docs/Forms/english/Form%20No.%202.pdf"
+literal "false"
+
+\end_inset
+
+) till your samarth portal is not active.
+\end_layout
+
+\begin_layout Enumerate
 Relocation
 \end_layout
 
@@ -299,7 +321,7 @@ literal "false"
 
 ).
  Finally,
- it get it signed from BHU Proctor office (Lanka gate or 
+ it get it signed from Chief Proctor office (
 \begin_inset CommandInset href
 LatexCommand href
 name "Location"
@@ -527,6 +549,20 @@ Electric complain 8299009927
 \end_layout
 
 \end_deeper
+\begin_layout Enumerate
+Online complain to IWD through online portal (
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "https://iwd.iitbhu.ac.in/lgn/"
+literal "false"
+
+\end_inset
+
+).
+ Write an email through your institute email to anuragtripathi.cis@itbhu.ac.in to make an account.
+\end_layout
+
 \begin_layout Standard
 \begin_inset VSpace bigskip
 \end_inset

@@ -275,6 +275,10 @@ joining report
 \end_layout
 
 \begin_layout Enumerate
+Form - 2 for leave application ()
+\end_layout
+
+\begin_layout Enumerate
 Relocation
 \end_layout
 
@@ -299,7 +303,16 @@ literal "false"
 
 ).
  Finally,
- it get signed from BHU Proctor office (Lanka gate).
+ it get it signed from Chief Proctor office (
+\begin_inset CommandInset href
+LatexCommand href
+name "Location"
+target "https://maps.app.goo.gl/cdgHFpfqJxbEs1G89"
+literal "false"
+
+\end_inset
+
+).
 \end_layout
 
 \end_deeper
@@ -487,7 +500,7 @@ office.facultyaffairs@itbhu.ac.in
 \end_deeper
 \begin_layout Enumerate
 After ID card,
- go to library with photocopy of your 
+ go to library registration desk with photocopy of your 
 \series bold
 ID card and one passport size photo
 \series default
@@ -497,6 +510,10 @@ ID card and one passport size photo
 \begin_deeper
 \begin_layout Itemize
 Follow the instruction given in your institute email ID.
+\end_layout
+
+\begin_layout Itemize
+Collect your Library card from registration desk.
 \end_layout
 
 \end_deeper
@@ -514,6 +531,20 @@ Electric complain 8299009927
 \end_layout
 
 \end_deeper
+\begin_layout Enumerate
+Online complain to IWD through online portal (
+\begin_inset CommandInset href
+LatexCommand href
+name "Website"
+target "https://iwd.iitbhu.ac.in/lgn/"
+literal "false"
+
+\end_inset
+
+).
+ Write an email through your institute email to anuragtripathi.cis@itbhu.ac.in to make an account.
+\end_layout
+
 \begin_layout Standard
 \begin_inset VSpace bigskip
 \end_inset
